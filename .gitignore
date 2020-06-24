@@ -1,0 +1,11 @@
+# Default ignored files
+.env
+*.out
+vendor
+.idea
+config.yml
+/workspace.xml
+vcs.xml
+releases/*
+k8s/*/*/*-configmap.yml
+
