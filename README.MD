@@ -1,8 +1,7 @@
 # RabbitMQ and Go Services
 
 ## Docs
-Register Go Service to Kong Api Gateway https://konghq.com/ using Resty Http Client and using
-Gin https://gin-gonic.com/
+Produce event or message using rabbitMQ server https://www.rabbitmq.com/
 
 ## Install
 #### A. Requirement
